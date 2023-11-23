@@ -6,7 +6,7 @@ const MyInfo = () => {
   return (
     <div className='w-full m-auto flex flex-col justify-center items-center py-10 border-b-2 border-gray-700 lg:flex-row lg:w-full lg:justify-start'>
       <div className='mb-8 lg:mr-8'>
-        <img src="./src/assets/my.jpg" className='rounded-full w-56'/>
+        <img src="src/assets/my.jpg" className='rounded-full w-56'/>
       </div>
       <div className='text-center lg:text-left'>
         <h1 className='text-4xl text-zinc-200 font-bold mb-3'>Santiago Zurbrigk</h1>
